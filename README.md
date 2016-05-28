@@ -3,13 +3,13 @@ Python Decimal support for complex Numbers
 
 ----
 To install:
-'''json
+```json
 sudo pip install complexdecimal
-'''
+```
 
 To update to latest version:
-'''json
+```json
 sudo pip install complex decimal --update
-'''
+```
 
 Alternatively avaliable here: https://pypi.python.org/pypi/complexdecimal/1.0.3
