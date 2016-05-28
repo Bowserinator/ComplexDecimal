@@ -25,4 +25,4 @@ To update to latest version:
 sudo pip install complex decimal --update
 ```
 
-Alternatively avaliable here: https://pypi.python.org/pypi/complexdecimal/1.0.3
+Alternatively avaliable here: https://pypi.python.org/pypi/complexdecimal/
