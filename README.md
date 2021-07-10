@@ -2,7 +2,7 @@
 Python Decimal support for complex Numbers
 
 Quick example:
-```json
+```python
 from complexdecimal import ComplexDecimal
 a = ComplexDecimal(1,2)
 b = ComplexDecimal(1,2)
@@ -16,13 +16,13 @@ print b.ln()
 
 ----
 To install:
-```json
-sudo pip install complexdecimal
+```
+python -m pip install complexdecimal
 ```
 
 To update to latest version:
-```json
-sudo pip install complex decimal --update
+```
+python -m pip install complex decimal --update
 ```
 
 Alternatively avaliable here: https://pypi.python.org/pypi/complexdecimal/
